@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Ian Bell | Blog
 ---
 # Structural Engineering Blog
 I'm Ian Bell, a third year architectural engineering student at OU graduating in May of 2027.
